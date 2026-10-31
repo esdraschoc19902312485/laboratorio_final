@@ -1,0 +1,7 @@
+C:\Users\CHOC\source\repos\laboratorio_final\laboratorio_final\obj\Debug\laboratorio_final.csproj.AssemblyReference.cache
+C:\Users\CHOC\source\repos\laboratorio_final\laboratorio_final\obj\Debug\laboratorio_final.csproj.CoreCompileInputs.cache
+C:\Users\CHOC\source\repos\laboratorio_final\laboratorio_final\bin\Debug\laboratorio_final.exe.config
+C:\Users\CHOC\source\repos\laboratorio_final\laboratorio_final\bin\Debug\laboratorio_final.exe
+C:\Users\CHOC\source\repos\laboratorio_final\laboratorio_final\bin\Debug\laboratorio_final.pdb
+C:\Users\CHOC\source\repos\laboratorio_final\laboratorio_final\obj\Debug\laboratorio_final.exe
+C:\Users\CHOC\source\repos\laboratorio_final\laboratorio_final\obj\Debug\laboratorio_final.pdb
